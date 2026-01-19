@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-
+```python
 class VaseemManchuri:
     def __init__(self):
         self.location = "Pileru, Andhra Pradesh, India"
@@ -40,7 +40,7 @@ class VaseemManchuri:
 
 me = VaseemManchuri()
 me.say_hi()
-
+```
 
 ---
 
