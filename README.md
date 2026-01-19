@@ -273,9 +273,9 @@ I'm always excited to collaborate on interesting projects or discuss opportuniti
 
 ### 📫 Reach Out To Me
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/VASEEMMANCHURI)
-[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaseemanchuri@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manchuri-vaseem-bb3250233/)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaseem3112@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaseem3112.github.io/portfolio/)
 
 ### 📍 Location
 **Pileru, Andhra Pradesh, India** 🇮🇳
